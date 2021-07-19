@@ -46,4 +46,4 @@ This includes formalizing the acceptance of the project and ending it efficientl
 - Documenting lessons learned
 - Receiving formal acceptance of the delivered work
 
-***Remember that process groups are not mutually exclusive. For example, project managers must perform monitoring and controlling processes throughout the project's life span***
+***Remember that process groups are not mutually exclusive. For example, project managers must perform monitoring and controlling processes throughout the project's life span.***
