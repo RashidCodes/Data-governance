@@ -1,49 +1,124 @@
-# Data-governance Project: Capstone Project
+<h1> The Project Management Lecture (Week 2)</h1>
 
-## Revisiting Project management process groups
-It is important to understand how the knowledge areas fit into a big picture of managing a project.
+<h2>Why ICT Project Management</h2>
 
-## Process
-A process is a series of actions directed towards a particular result. Project management process groups progress from
-- Initiating activities
-- Planning activities
-- Executing activities
-- Monitoring and Controlling activities
-- Closing activities
+- Complexity of ICT Business Environment
+- To be successful, ICT corporations need to be conversant with and use modern project management techniques.
+- Intagible products: IT project managers cannot see progress.
+- No standard process
+  - No clear relationships between software process and product types.
+- Rapid changes in technology outdate previous experiences.
 
-***Recall that a project can have different combinations of phases however, all project phases need to include all 5 process groups.***
 
-## 5 process groups
-### Initiation
-This includes defining and authorizing a project or project phase. Initiating processes take place during each phase of a project.
+<h2>What is a Project?</h2>
 
-<br/>
+- **Research-based**: This involves a thorough investigation in a particular area.
+- **Development** of software and hardware systems, process models, methods, and other interim documents.
+- **Evaluation**
+- **Industry-based**: This involves solving a problem within either organisation or another university department.
+- **Problem Solving**: Development of a new technique to solve some problem.
 
-### Planning
-This includes devising and maintaining a workable scheme to ensure that the project addresses the organization's needs. Projects include several plans including scope management plan, schedule management plan, cost management plan, and procurement management plan. These plans define each knowledge area as it relates to the project at a particular point in time. For example, a project team must define the work needed for the project, to schedule activities related to that work, to estimate costs for performing the work, and to decide what resources to procure to accomplish the work.
+<blockquote>Our project is an **Industry** project since we're trying to improve the data architecture of the company</blockquote>
 
-<br/>
+<h2>TRIPLE CONSTRAINT</h2>
 
-### Execution
-This includes coordinating people and other resources to carry out the various plans and create the products, and service, or resutls of the project or phase. Examples of executing processes include 
-- acquiring and developing the project team
-- performing quality assurance
-- distributing information
-- managing stakeholder expectations
-- conducting procurements
+- Time
+- Scope
+- Cost
 
-<br/>
 
-### Monitoring and Controlling
-This includes regularly measuring and monitoring progress to ensure that the project team meets the project objectives. The project manager and staff monitor and measure progress against the plans and take corrective action when necessary. A common monitoring and controlling process is **reporting performance**, where project stakeholders can identify any necessary changes that may be required to keep the project on track.
+<h2> Success Factors</h2>
 
-<br/>
+Focus on the highlighted points.
 
-### Closing
-This includes formalizing the acceptance of the project and ending it efficiently. Activities performed include:
-- Archiving project files
-- Closing out contracts
-- Documenting lessons learned
-- Receiving formal acceptance of the delivered work
+- **User involvement**
+- **Executive management support**
+- **Clear statement of requirements**
+- **Proper planning**
+- **Realistic Expectations**
+- Smaller Project Milestones
+- Competent Staff
+- Ownership
+- Clear vision and objectives
+- Hard-working, Focused Staff
+- Other
 
-***Remember that process groups are not mutually exclusive. For example, project managers must perform monitoring and controlling processes throughout the project's life span.***
+
+<h2> Approaches to Develop WBS</h2>
+- Using a guideline based on previous projects
+- Top down approach: High level tasks are decomposed into multiple subtasks.
+- Bottom-up approach
+- Mind-mapping approach
+
+<blockquote>Which approach should we use in our team?</blockquote>
+
+We could take a **combinatorial** approach: We can use a top-down approach and using mind-mapping to figure out the sub-tasks of each task.
+
+
+<h2>Scheduling</h2>
+Read about CPM (Critical Path Method), or Arrow on Diagram.
+
+<h2>Typical problems with IT Cost Estimates</h2>
+- Estimates are done too quickly
+- Lack of estimating experience
+- Management desires accuracy
+- Human beings are biased towards underestimation.
+
+
+<h2>Cost estimation techniques</h2>
+- Top-down estimates: Based on previous similar projects. It also requires expert knowledge, and its generally less accurate.
+- Bottom-up estimates: Estimate individual tasks and sum them up to get the total; the accuracy depends on the size.
+- Parametric modelling: Use parameters in a mathematical model to estimate. It's reliable when the historical information is accurate.
+
+
+<h2> Cost control </h2>
+- Planned value (PV)
+- Actual cost (AC)
+- Rate of performance (RP)
+
+
+<h2>Customer Driven Quality</h2>
+What does our customer want? 
+Proof of concept at the moment.
+
+<hr>
+<div style="border: 1px solid; border-radius: 10px; padding: 2rem 1rem;">
+  <h3>Meta-data</h3>
+  <ul>
+    <li>The client wants us to understand the importance of meta-data and suggest methods to the quality of it.</li>
+    <li>We have a general understanding of what meta-data is however, we need to improve our theory. Subsequently, we can suggest some tools.</li>
+    <li>He also mentioned <b>Technical</b> and <b>Business</b> meta-data. We have to do some research about that as well.</li>
+  </ul>
+  <p>Remember, the customer is willing to pay money for what he wants.</p>
+</div>
+
+
+<div style="border: 1px solid; border-radius: 10px; padding: 2rem 1rem;">
+  <h3>Master Data</h3>
+  <p> According to Wikipedia, Master data represents "data about the business entities that provide context for business transactions". Master data is, by its nature, almost always non-transactional in nature. However, there exists edge cases where an organization may need to treate certain transactional processes and operations as "master data". This arises for example, where information about master data entities, such as customers or products, is only contained within transactional data such as orders and receipts and is not house separately. <i style="font-weight:bold;">(Wikipedia, 2021)</i></p>
+  <ul>
+    <li>We have to suggest ways to improve existing architectures. Obviously, we'd need to do some research.
+  </ul>
+  <p>Remember, the customer is willing to pay money for what he wants.
+</div>
+
+
+<div style="border: 1px solid; border-radius: 10px; padding: 2rem 1rem;">
+  <h3>Data Quality</h3>
+  <ul>
+    <li>What is data quality?</li>
+    <li>Again, we need to do some research about quality. Every endeavor should contribute to the effective usage for the data for business intelligence purposes.</li>
+  </ul>
+  <p>Remember, the customer is willing to pay money for what he wants.
+</div>
+
+<hr>
+
+
+
+<h2> Quality Evaluation Factors </h2>
+<h3>Quality of the process</h3>
+- Results
+- Experience
+- Project team
+
