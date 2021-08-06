@@ -6,7 +6,7 @@
 - To be successful, ICT corporations need to be conversant with and use modern project management techniques.
 - Intagible products: IT project managers cannot see progress.
 - No standard process
-  - No clear relationships between software process and product types.
+- No clear relationships between software process and product types.
 - Rapid changes in technology outdate previous experiences.
 
 
@@ -45,6 +45,7 @@ Focus on the highlighted points.
 
 
 <h2> Approaches to Develop WBS</h2>
+
 - Using a guideline based on previous projects
 - Top down approach: High level tasks are decomposed into multiple subtasks.
 - Bottom-up approach
@@ -59,6 +60,7 @@ We could take a **combinatorial** approach: We can use a top-down approach and u
 Read about CPM (Critical Path Method), or Arrow on Diagram.
 
 <h2>Typical problems with IT Cost Estimates</h2>
+
 - Estimates are done too quickly
 - Lack of estimating experience
 - Management desires accuracy
@@ -66,12 +68,14 @@ Read about CPM (Critical Path Method), or Arrow on Diagram.
 
 
 <h2>Cost estimation techniques</h2>
+
 - Top-down estimates: Based on previous similar projects. It also requires expert knowledge, and its generally less accurate.
 - Bottom-up estimates: Estimate individual tasks and sum them up to get the total; the accuracy depends on the size.
 - Parametric modelling: Use parameters in a mathematical model to estimate. It's reliable when the historical information is accurate.
 
 
 <h2> Cost control </h2>
+
 - Planned value (PV)
 - Actual cost (AC)
 - Rate of performance (RP)
@@ -118,6 +122,7 @@ Proof of concept at the moment.
 
 <h2> Quality Evaluation Factors </h2>
 <h3>Quality of the process</h3>
+
 - Results
 - Experience
 - Project team
