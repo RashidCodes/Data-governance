@@ -127,3 +127,93 @@ Proof of concept at the moment.
 - Experience
 - Project team
 
+<h2>Quality Management</h2>
+
+ - Initiating
+ - Planning
+ - Executing and Controlling
+ - Closing
+
+<h2>Quality Assurance</h2>
+Quality assurance refers to the maintainance of a desired level of quality in a service or product especially by means of attention to every stage of the process or delivery or production.
+
+- Benefit-Cost analysis
+- Benchmarking
+- Flowcharting
+- Design of experiments
+- Cost of quality analysis
+- Quality audits (scheduled or random)
+
+
+<h2>Quality Control Approaches</h2>
+
+- **Peer Review**: The process of allowing team members to review each other's work.
+- **Statistical sampling**: the process of choosing a percentage of results at random.
+- **Management by walking around**: Get out of your office and get into the working environment.
+- **Reviews by Outside Experts**: Hire an outside expert to review the project as it progresses.
+
+For our project, we can try point 1 and 4.
+
+
+<h2>Quality Control Decisions</h2>
+
+- Acceptance decisions
+- Rework
+- Process adjustments
+
+
+<h2>Key Stakeholder in Communication</h2>
+
+You have to identify who you're going to be communicating with.
+
+- Project Sponsor/Owner
+- Project Steering Committee
+- Project Manager
+- Technical Manager/Business Manager/Team Leader
+- Project Team
+- Project support groups
+- Other Project stakeholder
+
+
+
+<h2>Communication Plan</h2>
+Before we go for a meeting with Charles, we have to do a little planning. First of, we have to schedule it. Secondly, we have to provide some information about what will be discussed at the meeting. We also have to talk about who will receive the information as well as who produce it.
+
+
+Moreover, we have to think of technologies for conveying information. For example, our team uses MS Teams for video calls and Slack for texts.
+
+The frequency of our communication is also another topic to think about. Currently, I've creating a recurring meeting time on our calendars. So we're definitely meeting at least once every week.
+
+<blockquote>Get a template to document meeting minutes.</blockquote>
+
+Additionally, we have to discuss how issues will be resolved.
+
+Penultimately, we have to discuss the revision procedures for updating the communications management plan.
+
+
+<h2>Information Distribution</h2>
+Revisit the medium choice matrix to see various information distribution media and their priority in varying circumstances.
+
+
+<h2>Why Projects fail</h2>
+Project most commonly fail because there is a lack fo attention and efforts being applied to seven project performance factors:
+
+- Focus on business value, not technical detail.
+- Who is responsible for what? (Establish clear accoutability for measure results).
+- Have consistent processes for managing unambiguous checkpoints.
+- Have a consistent methodology for planning and executing projects.
+- Include the customer at the beginning of the project and continually involve the customer as things change so that the required adjustments can be made together.
+- Manage and motivate people so that project efforts will experience a zone of optimal performance throughout its life.
+- Provide the project team members the tools and techniques they need to produce consistently successful projects.
+
+<h2>Risk Management Planning</h2>
+Read about risk management in the PMBOK guide.
+
+<h3> Risk Identification </h3>
+
+- Review project documents
+- Brainstorming
+- Delphi technique
+- Assumptions analysis
+- Root cause analysis
+- SWOT analysis
