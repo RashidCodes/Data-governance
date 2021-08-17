@@ -14,13 +14,17 @@ The aim of this project is develop a proof of concept master data management sys
 
 Ultimately, Arrow energy seeks to use data to derive insights about the their operations. In addition, the company seeks to use its growing repository of data to gain a competitive edge (Big data analytics capabilities: a systematic literature review, 2017), essentially adding business value to the company.
 
-The implementation of the proof of concept data management system will aids arrow in identifying and solving internal problems, thus improving customer experience and streamlining work activities. Additionally, the system will provide managers with a broad-picture of the business, which aids in planning. Lastly, data that is properly managed can be mined used for business intelligence purposes. This is beneficial in a number of ways including:
+The implementation of the proof of concept data management system will aids arrow in identifying and solving internal problems, thus improving customer experience and streamlining work activities. Additionally, the system will provide managers with a broad-picture of the business, which aids in planning. Lastly, data that is properly managed (high quality) can be mined used for business intelligence purposes. This is beneficial in a number of ways including:
 
 - Improved security of critical information.
 - Timely machine learning
 - Reduced operational expenses in hardware.
 
 <br/>
+
+<h2>Methodology Design</h2>
+
+There are three sets of elements of Master data management that are instrumental to improve data quality for business intelligence purposes (Resolving data duplication, 2021). The first set comprises Entity Resolution (ER) and Entity Identity Information Management (EIIM). Entity resolution, also known as de-duplication or record linking refers to the elimination of duplicate records to ameliorate data quality in database systems. 
 
 <h2>Team Formation</h2>
 
